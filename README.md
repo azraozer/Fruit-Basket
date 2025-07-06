@@ -9,11 +9,13 @@ The aim of the game is to collect the falling fruits by moving the basket at the
 ##Project Purpose 
 
 -To start programming with Scratch. 
+
 -To successfully complete the Harvard CS50 homework. 
 
 ##Technologies Used 
 
 -Scratch 3.0 
+
 -Harvard CS50 course homework
 
 🎮 To play the game on Scratch: https://scratch.mit.edu/projects/1186057712
